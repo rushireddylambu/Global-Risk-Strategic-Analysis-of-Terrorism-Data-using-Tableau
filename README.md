@@ -1,0 +1,1 @@
+# Global-Risk-Strategic-Analysis-of-Terrorism-Data-using-Tableau
